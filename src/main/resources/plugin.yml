@@ -1,0 +1,9 @@
+name: PortalsPlus
+version: 1.0.0
+main: me.pulsi_.portalsplus.PortalsPlus
+api-version: 1.13
+load: POSTWORLD
+authors: [ Pulsi_ ]
+commands:
+  portalsplus:
+    aliases: [portalsp, portal, ps]

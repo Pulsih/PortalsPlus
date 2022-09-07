@@ -1,0 +1,10 @@
+startup:
+  check-updates: true
+  silent-startup: false
+configs:
+  async-save: true
+portal-creator:
+  block-type: WHITE_STAINED_GLASS
+  default-particles: SPELL_WITCH 2 0.5 0.5 0.5 0
+portal-settings:
+  particles-speed: 10
